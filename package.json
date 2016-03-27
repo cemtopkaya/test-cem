@@ -1,0 +1,19 @@
+{
+  "name": "test-cem",
+  "version": "1.0.1",
+  "description": "\"# cemtest\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemtopkaya/cemtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cemtopkaya/cemtest/issues"
+  },
+  "homepage": "https://github.com/cemtopkaya/cemtest#readme"
+}
