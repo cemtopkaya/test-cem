@@ -8,7 +8,9 @@
 	"git:add": "git add -A",
     "git:commit":"git commit -m \"Otomatik mesaj\"",
     "git:push":"git push",
-    "git:ACP":"npm run git:add && npm run git:commit && npm run git:push"
+    "git:ACP":"npm run git:add && npm run git:commit && npm run git:push",
+	"version":"",
+    "version:patch":"npm version patch"
   },
   "repository": {
     "type": "git",
