@@ -1,6 +1,6 @@
 {
   "name": "test-cem",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "\"# cemtest\"",
   "main": "index.js",
   "scripts": {
