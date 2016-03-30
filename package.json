@@ -1,6 +1,6 @@
 {
   "name": "test-cem",
-  "version": "2.0.20",
+  "version": "2.0.21",
   "description": "\"# cemtest\"",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
     "posttest": "",
     "_______________________________________________________________ VERSION": "__________",
     "preversion": "npm run test",
-    "version": "git add -A && git commit -m\"%s versiyonu yapılacak\"",
+    "version": "git add -A && git commit -m\"Versiyon yapılacak\"",
     "postversion": "git push && git push --tags && npm publish",
     "version:patch": "npm version patch  -m \" %s Versiyonu yapıldı\" --no-git-tag-version",
     "version:minor": "npm version minor --no-git-tag-version",

@@ -3,6 +3,8 @@ var i = require('../index'),
 
 describe('ana test başlığı', function(){
 	it('a var mı', function(){
+		
 		chai.expect(i).to.have.property("a");
+		
 	});
 });
