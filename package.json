@@ -19,7 +19,7 @@
     "mocha:w": "mocha test/**/*.js --colors --reporter spec --watch",
     "w:mocha": "watch \"npm run mocha\" ./src/ ./test/",
     "_______________________________________________________________ TEST": "_____________",
-    "pretest": "npm run clearScreen",
+    "pretest": "",
     "test": "npm run mocha && npm run eslint",
     "test:c": "parallelshell \"npm run mocha:w\" \"npm run eslint:w\"",
     "test:w": "watch \"npm run test\" ./src/ ./test/",
