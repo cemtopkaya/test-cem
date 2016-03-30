@@ -1,3 +1,1 @@
-module.exports = function(){
-	console.log("neler oluyor hayatta...");
-}
+module.exports = require('./src/index')();
